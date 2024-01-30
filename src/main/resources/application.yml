@@ -1,0 +1,9 @@
+selenium:
+  us-visa:
+    url: https://ais.usvisa-info.com/en-ca/niv/users/sign_in
+    email: meetpatel3492@gmail.com
+    password: password
+    interval-in-seconds: 3
+
+server:
+  port: 9000
